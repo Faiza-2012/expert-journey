@@ -1,0 +1,33 @@
+body{
+    background-image: url(bg.jpeg);
+}
+.header{
+background-color: rgb(255, 255, 255);
+height: 100px;
+width: 100%;
+/* border-radius: 20%; */
+}
+.header_text{
+   font-style: italic;
+   color: rgb(0, 0, 0);
+   text-align: center;
+}
+.middle_part{
+    background-color: white;
+    height: 300px;
+    width: 60%;
+    border-radius: 20px;
+    border: 5px black dashed;
+}
+.introduction{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+.head_line{
+    font-size: 17px;
+    text-align: center;
+}
+/* li{
+    text-decoration: none;
+} */
